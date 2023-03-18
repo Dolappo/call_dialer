@@ -1,6 +1,6 @@
 # call_dialer
 
-A simple call screen
+A simple call screen that shows the dailer, speaker and Bluetooth options. 
 
 ## Getting Started
 
